@@ -1,2 +1,2 @@
 # XAd
-chrome广告删除插件
+chrome广告删除扩展
